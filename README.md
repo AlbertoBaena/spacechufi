@@ -1,4 +1,4 @@
-# [Space Chufi](albertobaena.github.io/spacechufi/)
+# [Space Chufi](https://albertobaena.github.io/spacechufi/)
 ## Purpose
 Funny game made with Construct 3
 ## Assets
