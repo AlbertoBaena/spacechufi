@@ -1,5 +1,5 @@
 # Space Chufi
-##Purpose
+## Purpose
 Funny game made with Construct 3
 ## Assets
 https://www.kenney.nl/assets/space-shooter-extension
