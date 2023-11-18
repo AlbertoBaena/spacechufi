@@ -4170,10 +4170,13 @@ self.C3_GetObjectRefTable = function () {
 		C3.Behaviors.Bullet.Acts.SetEnabled,
 		C3.Plugins.Sprite.Acts.RotateClockwise,
 		C3.Plugins.Button.Cnds.OnClicked,
-		C3.Plugins.Mouse.Cnds.OnClick,
+		C3.Plugins.Touch.Cnds.OnTapGesture,
+		C3.Plugins.Touch.Exps.X,
+		C3.Plugins.Touch.Exps.Y,
+		C3.Behaviors.EightDir.Cnds.IsMoving,
+		C3.Plugins.Mouse.Cnds.IsButtonDown,
 		C3.Plugins.Mouse.Exps.X,
-		C3.Plugins.Mouse.Exps.Y,
-		C3.Behaviors.EightDir.Cnds.IsMoving
+		C3.Plugins.Mouse.Exps.Y
 	];
 };
 self.C3_JsPropNameTable = [
